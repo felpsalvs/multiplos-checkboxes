@@ -1,6 +1,6 @@
 # Múltiplos checkboxes
 
-![image](https://user-images.githubusercontent.com/78622458/173884893-38f267bc-e09a-4fbb-b3e7-32ca33983de6.png)
+![image](https://user-images.githubusercontent.com/78622458/174390418-14d9c728-9319-4e05-90a0-ce6fe2e6467a.png)
 
 
 ### 🔖 Sobre
@@ -17,6 +17,10 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 + Html 5
 + Css 3
 + JavaScript
+
+### ⚡ Como ver
+
+Link da demo: https://multiplos-checkboxes.vercel.app/<br/>
 
 ### Autor
 Felipe Alves <br/><br/>
